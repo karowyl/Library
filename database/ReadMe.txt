@@ -1,0 +1,1 @@
+Po skompilowaniu, proszę wrzucić ten plik database.library.db do bin/debug/ 
